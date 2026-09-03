@@ -1,0 +1,8 @@
+interface:
+  display_name: "ETF周度份额榜"
+  short_description: "生成和复核沪深ETF周度份额榜及A股风格手机长图"
+  brand_color: "#D8292F"
+  default_prompt: "使用 $etf-weekly-share-report 生成最近一周ETF份额变化手机长图。"
+
+policy:
+  allow_implicit_invocation: true

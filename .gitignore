@@ -1,0 +1,4 @@
+scripts/etf_full_names_cache.json
+reports/
+__pycache__/
+*.pyc
